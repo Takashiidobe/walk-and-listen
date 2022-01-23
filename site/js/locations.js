@@ -41,6 +41,16 @@ LOCATIONS = [
   },
   {
     id: 5,
+    name: "New Haven, Connecticut",
+    videoId: "6PHApdWRjEY",
+    radio: {
+      url: "http://live-aacplus-64.kexp.org/kexp64.aac",
+      name: "KEXP",
+    },
+    startTime: 0,
+  },
+  {
+    id: 6,
     name: "Durham, North Carolina",
     videoId: "ZpUFoXEqdBs",
     radio: {
@@ -50,7 +60,7 @@ LOCATIONS = [
     startTime: 0,
   },
   {
-    id: 6,
+    id: 7,
     name: "Charleston, South Carolina",
     videoId: "gT_17bxGXoI",
     radio: {
